@@ -1,0 +1,1 @@
+2018/02/07 14:26:36 [error] 21066#21066: *1 directory index of "/var/www/imagify/backend/web/" is forbidden, client: 127.0.0.1, server: backend.test, request: "GET / HTTP/1.1", host: "backend.test"
